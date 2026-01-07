@@ -18,3 +18,24 @@
         "Allowoffline": false
     }
 ]
+
+[
+    {
+        "device_id": "0ad8db5381f9b3bb",
+        "key": "12345",
+        "expirydate": "08-01-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "28ffdfdd1e02be3d",
+        "key": "abdulsameer",
+        "expirydate": "08-01-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "45d32a5098a82f11",
+        "key": "PREMKUMAR",
+        "expirydate": "08-02-2026",
+        "Allowoffline": false
+    }
+]
