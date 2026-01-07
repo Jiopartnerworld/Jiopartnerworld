@@ -18,20 +18,20 @@
         "Allowoffline": false
     },
     {
-        "device_id": "baa549bb521c53c1",
+        "device_id": "device id",
         "key": "12345",
         "expirydate": "08-01-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "28ffdfdd1e02be3d",
-        "key": "abdulsameer",
+        "device_id": "baa549bb521c53c1",
+        "key": "1111",
         "expirydate": "08-01-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "45d32a5098a82f11",
-        "key": "PREMKUMAR",
+        "device_id": "device id",
+        "key": "1111",
         "expirydate": "08-02-2026",
         "Allowoffline": false
     },
