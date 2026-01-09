@@ -8,13 +8,13 @@
     {
         "device_id": "Device id",
         "key": "7499330509",
-        "expirydate": "11-01-2026",
+        "expirydate": "11-01-2025",
         "Allowoffline": false
     },
    {
         "device_id": "Device id",
         "key": "12345",
-        "expirydate": "09-02-2026",
+        "expirydate": "09-02-2025",
         "Allowoffline": false
     },
    {
