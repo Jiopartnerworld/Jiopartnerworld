@@ -6,20 +6,20 @@
         "Allowoffline": false
     },
     {
-        "device_id": "754f61631ef90e4f",
-        "key": "9140746955",
+        "device_id": "device id",
+        "key": "1234",
         "expirydate": "18-01-2026",
         "Allowoffline": false
     },
    {
-        "device_id": "0ad8db5381f9b3bb",
-        "key": "9083907482",
+        "device_id": "device id",
+        "key": "1234",
         "expirydate": "19-01-2026",
         "Allowoffline": true
     },
    {
-        "device_id": "99e1d73c777ab57b",
-        "key": "Suresh",
+        "device_id": "device id",
+        "key": "1234",
         "expirydate": "17-01-2026",
         "Allowoffline": false
     },
